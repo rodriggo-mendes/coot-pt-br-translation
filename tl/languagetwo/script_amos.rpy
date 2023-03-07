@@ -4,193 +4,193 @@
 translate languagetwo amos_intro_8dd1a6f1:
 
     # "Taking a seat at the bar, you wait for the bartender."
-    "Taking a seat at the bar, you wait for the bartender."
+    "Sentando-se no bar, você espera pelo bartender."
 
 # game/script_amos.rpy:6
 translate languagetwo amos_intro_dba9f590:
 
     # thought "Well, this is awkward."
-    thought "Well, this is awkward."
+    thought "Bem, isso é estranho."
 
 # game/script_amos.rpy:7
 translate languagetwo amos_intro_83dcbc66:
 
     # "Questions and doubts swirl in your stomach, but you realize this is an important step you're taking in your new life."
-    "Questions and doubts swirl in your stomach, but you realize this is an important step you're taking in your new life."
+    "Dúvidas e questionamentos giram em seu estômago, mas você percebe que isso é um passo importante que está dando em sua nova vida."
 
 # game/script_amos.rpy:10
 translate languagetwo amos_intro_a3ccf73e:
 
     # "It should be just like last time—sit down, look around, and wait for a smokin' hot guy to approach you."
-    "It should be just like last time—sit down, look around, and wait for a smokin' hot guy to approach you."
+    "Deve ser igual a última vez — sentar, olhar em volta e esperar algum gostoso se aproximar."
 
 # game/script_amos.rpy:11
 translate languagetwo amos_intro_2c2d9074:
 
     # "Let him buy you a drink, offer you his number, and you'll be on your merry way."
-    "Let him buy you a drink, offer you his number, and you'll be on your merry way."
+    "Deixar ele oferecer um drink, dar meu telefone, e aí picar a mula."
 
 # game/script_amos.rpy:12
 translate languagetwo amos_intro_8966beb4:
 
     # "That easy, right?"
-    "That easy, right?"
+    "Fácil assim, né?"
 
 # game/script_amos.rpy:14
 translate languagetwo amos_intro_47fc6ae6:
 
     # "You calm yourself a bit and look around, trying to appear confident but not fake."
-    "You calm yourself a bit and look around, trying to appear confident but not fake."
+    "Você se acalma um pouco e olha em volta, tentando parecer confiante mas sem exagero."
 
 # game/script_amos.rpy:16
 translate languagetwo amos_intro_52c72ca2:
 
     # bartender_off "What can I get you?"
-    bartender_off "What can I get you?"
+    bartender_off "E aí, o que vai ser?"
 
 # game/script_amos.rpy:20
 translate languagetwo amos_intro_80ffbabf:
 
     # "The barman pours you a clear, cool glass of white wine."
-    "The barman pours you a clear, cool glass of white wine."
+    "O barman te serve uma taça fria de vinho branco."
 
 # game/script_amos.rpy:22
 translate languagetwo amos_intro_81a56750:
 
     # "The barman pours you a nice, cold brew."
-    "The barman pours you a nice, cold brew."
+    "O barman te serve um belo (?)." # Brew?
 
 # game/script_amos.rpy:24
 translate languagetwo amos_intro_8700a330:
 
     # bartender_off "The {i}usual{/i}? Who the hell are you?"
-    bartender_off "The {i}usual{/i}? Who the hell are you?"
+    bartender_off "O {i}de sempre{/i}? Quem diabos é você?"
 
 # game/script_amos.rpy:26
 translate languagetwo amos_intro_6d74a481:
 
     # mside "Uh, I guess I'll just have a beer."
-    mside "Uh, I guess I'll just have a beer."
+    mside "Err, pode ser só uma cerveja mesmo."
 
 # game/script_amos.rpy:27
 translate languagetwo amos_intro_cabcb91c:
 
     # "He looks at you for a second before pouring you a frosty one."
-    "He looks at you for a second before pouring you a frosty one."
+    "Ele te encara por uns segundos antes de te servir uma geladinha."
 
 # game/script_amos.rpy:30
 translate languagetwo amos_intro_ad9aa952:
 
     # "You sip your drink, begin to look around, when a dude slides in next to you. His face all smiles and flashing eyes."
-    "You sip your drink, begin to look around, when a dude slides in next to you. His face all smiles and flashing eyes."
+    "Você dá um gole na bebida e começa a olhar em volta, quando um cara desliza pro seu lado, todo sorridente e olhos brilhando."
 
 # game/script_amos.rpy:31
 translate languagetwo amos_intro_9acd5aef:
 
     # "This could be promising."
-    "This could be promising."
+    "Isso pode ser promissor."
 
 # game/script_amos.rpy:32
 translate languagetwo amos_intro_e4cd2b08:
 
     # rico_off "You look new."
-    rico_off "You look new."
+    rico_off "Você parece novo aqui."
 
 # game/script_amos.rpy:33
 translate languagetwo amos_intro_a82a65f2:
 
     # "He looks your body over, slow and thoughtful, like he's imagining things."
-    "He looks your body over, slow and thoughtful, like he's imagining things."
+    "Ele observa seu corpo, bem devagar e pensativo, como se estivesse pensando em coisas."
 
 # game/script_amos.rpy:35
 translate languagetwo amos_intro_5d3aff96:
 
     # mside "Um, hi."
-    mside "Um, hi."
+    mside "Err, olá."
 
 # game/script_amos.rpy:36
 translate languagetwo amos_intro_e24e4ecc:
 
     # rico_off "I'm Rico. I'm {i}not{/i} Spanish. But I {i}am{/i} Rico. Who are you?"
-    rico_off "I'm Rico. I'm {i}not{/i} Spanish. But I {i}am{/i} Rico. Who are you?"
+    rico_off "Eu me chamo Rico. Eu {i}não{/i} sou espanhol, mas {i}me chamo{/i} Rico. Quem é você?"
 
 # game/script_amos.rpy:38
 translate languagetwo amos_intro_32a35ce4:
 
     # mside "I'm [m]. Nice to meet you."
-    mside "I'm [m]. Nice to meet you."
+    mside "Me chamo [m]. Prazer em te conhecer."
 
 # game/script_amos.rpy:39
 translate languagetwo amos_intro_528a2f76:
 
     # rico_off "It could be more than nice. Let me buy you another drink."
-    rico_off "It could be more than nice. Let me buy you another drink."
+    rico_off "Pode ser mais que um prazer. Me deixa te comprar outra bebida."
 
 # game/script_amos.rpy:41
 translate languagetwo amos_intro_43797bd6:
 
     # mside "But, er, I just started this one."
-    mside "But, er, I just started this one."
+    mside "Mas, err, eu acabei de pegar essa aqui."
 
 # game/script_amos.rpy:42
 translate languagetwo amos_intro_b65aaa22:
 
     # rico_off "Think of alcohol like a lubricant. The more you use, the easier it is. Right?"
-    rico_off "Think of alcohol like a lubricant. The more you use, the easier it is. Right?"
+    rico_off "Pense em álcool como lubrificante. Quanto mais você usa, mais fácil fica, né?"
 
 # game/script_amos.rpy:46
 translate languagetwo amos_intro_e7a327fc:
 
     # rico_off "The drinks, they release your true self. Make it easier to become friends. Just like lube."
-    rico_off "The drinks, they release your true self. Make it easier to become friends. Just like lube."
+    rico_off "As bebidas soltam seu 'eu' verdadeiro. Deixam mais fácil fazer amizade. Igual lubrificante."
 
 # game/script_amos.rpy:48
 translate languagetwo amos_intro_ee598348:
 
     # mside "Uh—"
-    mside "Uh—"
+    mside "Err—"
 
 # game/script_amos.rpy:50
 translate languagetwo amos_intro_a0e1ef94:
 
     # rico_off "Of course. It's not a big thing. Just a little lube talk, between friends. What can I get you?"
-    rico_off "Of course. It's not a big thing. Just a little lube talk, between friends. What can I get you?"
+    rico_off "É claro, não é nada demais. Só um papo sobre lubrificante entre amigos. E o que vai querer?"
 
 # game/script_amos.rpy:52
 translate languagetwo amos_intro_5810a50b:
 
     # mside "Actually, nothing. I just lost my appetite."
-    mside "Actually, nothing. I just lost my appetite."
+    mside "Nada, na verdade. Acabei de perder o apetite."
 
 # game/script_amos.rpy:53
 translate languagetwo amos_intro_ec5d4852:
 
     # rico_off "I didn't offer you food."
-    rico_off "I didn't offer you food."
+    rico_off "Não te ofereci comida."
 
 # game/script_amos.rpy:55
 translate languagetwo amos_intro_b69adf79:
 
     # mside "Um, well, my appetite for drinks."
-    mside "Um, well, my appetite for drinks."
+    mside "Err, tipo, meu apetite para bebidas."
 
 # game/script_amos.rpy:59
 translate languagetwo amos_intro_1e2fd48b:
 
     # rico_off "I'm sorry, but are you playing hard-to-get? That is incredibly cute."
-    rico_off "I'm sorry, but are you playing hard-to-get? That is incredibly cute."
+    rico_off "Desculpa, mas você tá se fazendo de difícil? Isso é incrivelmente fofo."
 
 # game/script_amos.rpy:61
 translate languagetwo amos_intro_b07025d3:
 
     # mside "Ok, I'm not playing hard-to-get."
-    mside "Ok, I'm not playing hard-to-get."
+    mside "Ok, mas não tô me fazendo de difícil."
 
 # game/script_amos.rpy:62
 translate languagetwo amos_intro_ab91d0ae:
 
     # rico_off "You're into the chase, I see. I can do that. In fact, I'm {i}really{/i} good at it."
-    rico_off "You're into the chase, I see. I can do that. In fact, I'm {i}really{/i} good at it."
+    rico_off "Hmm, entendi, você gosta da caça. Consigo fazer isso. Na verdade, sou {i}muito{/i} bom nisso."
 
 # game/script_amos.rpy:63
 translate languagetwo amos_intro_2768c00c:
