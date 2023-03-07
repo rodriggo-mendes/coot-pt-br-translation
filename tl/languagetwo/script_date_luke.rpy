@@ -4,85 +4,85 @@
 translate languagetwo luke_intro_270780db:
 
     # thought "Rugby player? Hnnng. Let's see what he's up to."
-    thought "Rugby player? Hnnng. Let's see what he's up to."
+    thought "Jogador de rúgbi? Ufff. Vamos ver o que ele tá fazendo."
 
 # game/script_date_luke.rpy:10
 translate languagetwo luke_intro_8fddef08:
 
     # "You message Luke. After exchanging pleasantries and basic information, he invites you to his place to '{i}Streamflix and chill{/i}.'"
-    "You message Luke. After exchanging pleasantries and basic information, he invites you to his place to '{i}Streamflix and chill{/i}.'"
+    "Você manda mensagem ao Luke. Depois de trocar gentilezas e informações básicas, ele te convida para a casa dele para um '{i}Streamflix and chill{/i}.'"
 
 # game/script_date_luke.rpy:12
 translate languagetwo luke_intro_c8e958ce:
 
     # mside "Welp. That was easy. For once."
-    mside "Welp. That was easy. For once."
+    mside "Nossa. Isso foi fácil. Pra variar."
 
 # game/script_date_luke.rpy:25
 translate languagetwo luke_meet_fbd0aa3e:
 
     # "You find yourself on the porch of a stately brick frat house on the near side of campus."
-    "You find yourself on the porch of a stately brick frat house on the near side of campus."
+    "Você chega à varanda de uma frat house atijolada próxima ao campus."
 
 # game/script_date_luke.rpy:29
 translate languagetwo luke_meet_9b7abfee:
 
     # thought "Let's see. We're gonna pretend to watch a movie, then get right down to business."
-    thought "Let's see. We're gonna pretend to watch a movie, then get right down to business."
+    thought "Vamos ver... A gente finge assistir um filme, e vai direto ao assunto."
 
 # game/script_date_luke.rpy:30
 translate languagetwo luke_meet_effa7709:
 
     # thought "Sounds like I just gotta play it cool and go with the flow."
-    thought "Sounds like I just gotta play it cool and go with the flow."
+    thought "Parece que é só ficar de boa e seguir o fluxo."
 
 # game/script_date_luke.rpy:39
 translate languagetwo luke_meet_e714dc0b:
 
     # luke "Hey, you must be [m]. Good to meet ya. I'm Luke."
-    luke "Hey, you must be [m]. Good to meet ya. I'm Luke."
+    luke "E aê, 'cê deve ser o [m]. Prazer em te conhecer. Sou o Luke."
 
 # game/script_date_luke.rpy:40
 translate languagetwo luke_meet_ddda59e2:
 
     # "You struggle not to melt at the sound of his Irish accent."
-    "You struggle not to melt at the sound of his Irish accent."
+    "Você tenta não derreter ao ouvir seu sotaque mineiro."
 
 # game/script_date_luke.rpy:43
 translate languagetwo luke_meet_b9cd5928:
 
     # mside "Hey. Hi. Hey."
-    mside "Hey. Hi. Hey."
+    mside "Oi. Olá. Oi."
 
 # game/script_date_luke.rpy:45
 translate languagetwo luke_meet_c5a3c1c8:
 
     # luke "You all right, lad? You sound out of breath."
-    luke "You all right, lad? You sound out of breath."
+    luke "'Cê tá bem, manin'? Tá meio sem ar."
 
 # game/script_date_luke.rpy:52
 translate languagetwo luke_meet_ebb5150f:
 
     # luke "Thanks."
-    luke "Thanks."
+    luke "Valeu."
 
 # game/script_date_luke.rpy:54
 translate languagetwo luke_meet_852a5f57:
 
     # mside "I bet you're tired of hearing that."
-    mside "I bet you're tired of hearing that."
+    mside "Aposto que você tá cansado de ouvir isso."
 
 # game/script_date_luke.rpy:56
 translate languagetwo luke_meet_e189ae7c:
 
     # luke "It's quite alright."
-    luke "It's quite alright."
+    luke "Tá tudo bem."
 
 # game/script_date_luke.rpy:58
 translate languagetwo luke_meet_6332c977:
 
     # luke "People around here think I'm smarter because of it."
-    luke "People around here think I'm smarter because of it."
+    luke "O povo daqui acha que eu sou mais esperto por causa dele."
 
 # game/script_date_luke.rpy:60
 translate languagetwo luke_meet_bc0cfd66:
@@ -100,7 +100,7 @@ translate languagetwo luke_meet_be349d27:
 translate languagetwo luke_meet_ebb5150f_1:
 
     # luke "Thanks."
-    luke "Thanks."
+    luke "Valeu."
 
 # game/script_date_luke.rpy:67
 translate languagetwo luke_meet_9927ad97:
@@ -124,49 +124,49 @@ translate languagetwo luke_meet_9927ad97_1:
 translate languagetwo luke_meet_51d74858:
 
     # luke "Yeah... so... anyway..."
-    luke "Yeah... so... anyway..."
+    luke "É... então..."
 
 # game/script_date_luke.rpy:76
 translate languagetwo luke_meet_5444de6b:
 
     # luke "Right. I suppose so."
-    luke "Right. I suppose so."
+    luke "É. Acho que sim."
 
 # game/script_date_luke.rpy:79
 translate languagetwo luke_meet_2f077a2a:
 
     # mside "Incidentally, what are we watching?"
-    mside "Incidentally, what are we watching?"
+    mside "Aliás, ao quê a gente vai assitir?"
 
 # game/script_date_luke.rpy:81
 translate languagetwo luke_meet_9a0f15ec:
 
     # luke "{i}While I Sleep{/i}."
-    luke "{i}While I Sleep{/i}."
+    luke "{i}Enquanto Eu Durmo{/i}."
 
 # game/script_date_luke.rpy:83
 translate languagetwo luke_meet_1ad59194:
 
     # mside "Never heard of it. What's it about?"
-    mside "Never heard of it. What's it about?"
+    mside "Nunca ouvi falar. É sobre o quê?"
 
 # game/script_date_luke.rpy:85
 translate languagetwo luke_meet_5d6628f2:
 
     # luke "It's about a narcoleptic rugby player who struggles to overcome his disability and lead his collegiate team to the national championship."
-    luke "It's about a narcoleptic rugby player who struggles to overcome his disability and lead his collegiate team to the national championship."
+    luke "É sobre um jogador de rúgbi narcoléptico que luta pra superar sua condição e levar seu time colegial pro campeonato nacional."
 
 # game/script_date_luke.rpy:87
 translate languagetwo luke_meet_99006379:
 
     # luke "At least that's what the Streamflix blurb said."
-    luke "At least that's what the Streamflix blurb said."
+    luke "Pelo menos é isso que tá na sinopse da Streamflix."
 
 # game/script_date_luke.rpy:89
 translate languagetwo luke_meet_2ccb33d2:
 
     # mside "Sounds hilarious."
-    mside "Sounds hilarious."
+    mside "Parece hilário."
 
 # game/script_date_luke.rpy:91
 translate languagetwo luke_meet_a8db8d81_1:
@@ -178,265 +178,265 @@ translate languagetwo luke_meet_a8db8d81_1:
 translate languagetwo luke_meet_03fd67b2:
 
     # luke "It's not a comedy."
-    luke "It's not a comedy."
+    luke "Não é de comédia."
 
 # game/script_date_luke.rpy:95
 translate languagetwo luke_meet_fc3aec50:
 
     # mside "Uh, don't you think the scenario is a bit... well, convoluted?"
-    mside "Uh, don't you think the scenario is a bit... well, convoluted?"
+    mside "Err, você não acha que o roteiro é meio... tipo, complexo demais?"
 
 # game/script_date_luke.rpy:97
 translate languagetwo luke_meet_74790748:
 
     # luke "Convoluted? How so?"
-    luke "Convoluted? How so?"
+    luke "Complexo? Como assim?"
 
 # game/script_date_luke.rpy:99
 translate languagetwo luke_meet_929db9b1:
 
     # mside "Uh, well, I guess not. I mean, it {i}sounds{/i} like it could be inspiring, I suppose."
-    mside "Uh, well, I guess not. I mean, it {i}sounds{/i} like it could be inspiring, I suppose."
+    mside "Err, bem, talvez não. Quer dizer, {i}parece{/i} que pode ser inspirador, eu acho."
 
 # game/script_date_luke.rpy:101
 translate languagetwo luke_meet_b4da2b69:
 
     # luke "Underdog stories always get me right in the heart! Let's hope it doesn't disappoint."
-    luke "Underdog stories always get me right in the heart! Let's hope it doesn't disappoint."
+    luke "Histórias de azarões sempre acertam em cheio no meu coração! Vamo' torcer pra que essa não decepcione."
 
 # game/script_date_luke.rpy:104
 translate languagetwo luke_meet_fcf4ad91:
 
     # luke "I've been dying to have a run at this movie. But nobody around here seems interested."
-    luke "I've been dying to have a run at this movie. But nobody around here seems interested."
+    luke "Eu tava doidin' pra ver esse filme, mas ninguém por aqui parecia interessado."
 
 # game/script_date_luke.rpy:106
 translate languagetwo luke_meet_dd01a825:
 
     # mside "Haha. Their loss!"
-    mside "Haha. Their loss!"
+    mside "Haha. Eles que tão perdendo!"
 
 # game/script_date_luke.rpy:108
 translate languagetwo luke_meet_90b39693:
 
     # luke "And I heard about this {i}Brofinder{/i} app so I thought, {i}maybe some bros on there would be game.{/i}"
-    luke "And I heard about this {i}Brofinder{/i} app so I thought, {i}maybe some bros on there would be game.{/i}"
+    luke "Aí eu fiquei sabendo desse tal de {i}Brofinder{/i} e pensei {i}talvez alguns 'bros' topem.{/i}"
 
 # game/script_date_luke.rpy:110
 translate languagetwo luke_meet_87fa94ce:
 
     # mside "Well, I'm definitely {i}game{/i}."
-    mside "Well, I'm definitely {i}game{/i}."
+    mside "Bem, eu {i}definitivamente{/i} topo."
 
 # game/script_date_luke.rpy:111
 translate languagetwo luke_meet_51cc2048:
 
     # thought "Oh boy. Am I game."
-    thought "Oh boy. Am I game."
+    thought "Ah cara. E como eu topo."
 
 # game/script_date_luke.rpy:113
 translate languagetwo luke_meet_e7c985ec:
 
     # luke "Brilliant. Come on in."
-    luke "Brilliant. Come on in."
+    luke "Perfeito. Vamo' entrar."
 
 # game/script_date_luke.rpy:118
 translate languagetwo luke_tv_room_112f2394:
 
     # "You follow him inside. Luke's massive body fills the corridor and you can't help but run your eyes up and down his physique several times."
-    "You follow him inside. Luke's massive body fills the corridor and you can't help but run your eyes up and down his physique several times."
+    "Você segue ele adentro. o corpo imenso de Luke preenche o corredor e você não consegue evitar de olhar seu físico, de cima a baixo, várias vezes."
 
 # game/script_date_luke.rpy:120
 translate languagetwo luke_tv_room_38177d51:
 
     # "After walking past several doors and a dining hall, you wind up in a room crammed with a TV, couch, and ping pong table."
-    "After walking past several doors and a dining hall, you wind up in a room crammed with a TV, couch, and ping pong table."
+    "Depois de passar por algumas portas e um salão de jantar, vocês acabam em uma sala abarrotada com uma TV, um sofá e uma mesa de ping pong."
 
 # game/script_date_luke.rpy:125
 translate languagetwo luke_tv_room_12a1c07d:
 
     # luke "Welcome to the communal lounge."
-    luke "Welcome to the communal lounge."
+    luke "Bem-vindo ao saguão comunal."
 
 # game/script_date_luke.rpy:127
 translate languagetwo luke_tv_room_c49d7257:
 
     # mside "Cool."
-    mside "Cool."
+    mside "Legal."
 
 # game/script_date_luke.rpy:129
 translate languagetwo luke_tv_room_4411efe7:
 
     # mside "Wait. Did you say communal? Meaning you share this room with everyone in the house?"
-    mside "Wait. Did you say communal? Meaning you share this room with everyone in the house?"
+    mside "Espera. Você disse comunal? O que significa que você compartilha essa sala com todo mundo da casa?"
 
 # game/script_date_luke.rpy:131
 translate languagetwo luke_tv_room_483ec686:
 
     # luke "Yeah, of course. This is a fraternity after all."
-    luke "Yeah, of course. This is a fraternity after all."
+    luke "Sim, é claro. Afinal, 'tamo numa frat house."
 
 # game/script_date_luke.rpy:133
 translate languagetwo luke_tv_room_133c3f75:
 
     # mside "You're not gonna lock the door maybe? Or..."
-    mside "You're not gonna lock the door maybe? Or..."
+    mside "Você não vai, talvez, trancar a porta? Ou..."
 
 # game/script_date_luke.rpy:135
 translate languagetwo luke_tv_room_fc53b605:
 
     # luke "What? Why would I lock it? As a fraternity we all check up on each other a lot. Get into each others' business and that sort of thing."
-    luke "What? Why would I lock it? As a fraternity we all check up on each other a lot. Get into each others' business and that sort of thing."
+    luke "O quê? Por que eu trancaria? Como uma fraternidade a gente sempre cuida uns dos outros, se mete no meio e esse tipo de coisa."
 
 # game/script_date_luke.rpy:137
 translate languagetwo luke_tv_room_6263a04a:
 
     # luke "And who knows, maybe I can get one of the guys to join us."
-    luke "And who knows, maybe I can get one of the guys to join us."
+    luke "Quem sabe, talvez eu consiga fazer um dos caras se juntarem a nós."
 
 # game/script_date_luke.rpy:139
 translate languagetwo luke_tv_room_679d02d8:
 
     # mside "Okaay."
-    mside "Okaay."
+    mside "Okaaay.."
 
 # game/script_date_luke.rpy:142
 translate languagetwo luke_tv_room_c15873b8:
 
     # luke "So, settle in, lad. You want a drink?"
-    luke "So, settle in, lad. You want a drink?"
+    luke "Mas então, se aconchega aí manin'. Quer alguma coisa pra beber?"
 
 # game/script_date_luke.rpy:144
 translate languagetwo luke_tv_room_d01c4387:
 
     # mside "I hope this doesn't sound weird, but maybe some coffee or hot chocolate? It's freezing in here."
-    mside "I hope this doesn't sound weird, but maybe some coffee or hot chocolate? It's freezing in here."
+    mside "Não querendo parecer estranho, mas tem café ou chocolate quente? Tá bem frio aqui."
 
 # game/script_date_luke.rpy:146
 translate languagetwo luke_tv_room_8a845703:
 
     # luke "Aye no. No coffee or hot chocolate. And yeah, about the bleedin' cold—sorry about that, too. The heater's right out of service. I'll get you a blanket."
-    luke "Aye no. No coffee or hot chocolate. And yeah, about the bleedin' cold—sorry about that, too. The heater's right out of service. I'll get you a blanket."
+    luke "Puts, não. Nem um, nem outro. E é... foi mal pelo frio, também. O aquecedor parou de funcionar. Vou pegar um coberto pr'ocê."
 
 # game/script_date_luke.rpy:148
 translate languagetwo luke_tv_room_e274eedd:
 
     # "Luke digs into a cabinet and tosses you a blanket."
-    "Luke digs into a cabinet and tosses you a blanket."
+    "Luke vasculha um armário e te joga um cobertor."
 
 # game/script_date_luke.rpy:152
 translate languagetwo luke_on_couch_1a598a76:
 
     # "You plop yourselves down on the couch."
-    "You plop yourselves down on the couch."
+    "Vocês se jogam no sofá."
 
 # game/script_date_luke.rpy:160
 translate languagetwo luke_on_couch_8efa35e7:
 
     # mside "You play rugby yourself, right?"
-    mside "You play rugby yourself, right?"
+    mside "Você joga rúgbi, né?"
 
 # game/script_date_luke.rpy:162
 translate languagetwo luke_on_couch_9586198f:
 
     # lukebig "Oh yeah. Listen, lad—I'm first team varsity here at Orlin. I don't fuck about when I'm on the field."
-    lukebig "Oh yeah. Listen, lad—I'm first team varsity here at Orlin. I don't fuck about when I'm on the field."
+    lukebig "Ah sim. Olha só, manin', eu sou do time universitário número um aqui em São Paulo. Eu num brinco quando tô em campo."
 
 # game/script_date_luke.rpy:164
 translate languagetwo luke_on_couch_0bff3b37:
 
     # mside "Maybe I should come see a game, sometime. Expand my cultural horizons a bit."
-    mside "Maybe I should come see a game, sometime. Expand my cultural horizons a bit."
+    mside "Talvez eu devesse ver um jogo, qualquer hora. Expandir meus horizontes culturais um pouco."
 
 # game/script_date_luke.rpy:166
 translate languagetwo luke_on_couch_98c7a68b:
 
     # lukebig "Do that and ya won't regret it. It's a great game."
-    lukebig "Do that and ya won't regret it. It's a great game."
+    lukebig "Faz isso que 'cê num vai se arrepender. É um jogo ótimo."
 
 # game/script_date_luke.rpy:168
 translate languagetwo luke_on_couch_91c8a4da:
 
     # lukebig "Pathetic the way it's looked on here. But eh, what can ya do?"
-    lukebig "Pathetic the way it's looked on here. But eh, what can ya do?"
+    lukebig "É bem patético o jeito que veem rúgbi por aqui, mas o quê que eu posso fazer, num é?"
 
 # game/script_date_luke.rpy:170
 translate languagetwo luke_on_couch_ba915571:
 
     # lukebig "Anyway, I'm still getting used to the differences in American culture."
-    lukebig "Anyway, I'm still getting used to the differences in American culture."
+    lukebig "De qualquer forma, ainda tô me acostumando com as diferenças culturais."
 
 # game/script_date_luke.rpy:172
 translate languagetwo luke_on_couch_ea77423b:
 
     # lukebig "Like this fraternity business. It's not a big thing back where I live. But I was invited to pledge and said why not? Let's have a firsthand look at the American college experience."
-    lukebig "Like this fraternity business. It's not a big thing back where I live. But I was invited to pledge and said why not? Let's have a firsthand look at the American college experience."
+    lukebig "Tipo esse trem de frat house. Nem tem isso lá onde eu morava. Mas aí eu fui convidado pro comprometimento e pensei {i}por que não? Vamo' sentir na pele como que é a experiência universitária daqui{/i}."
 
 # game/script_date_luke.rpy:174
 translate languagetwo luke_on_couch_27b4b5c1:
 
     # lukebig "After all, I want to open myself up to new things."
-    lukebig "After all, I want to open myself up to new things."
+    lukebig "Afinal de contas eu quero me abrir pra coisas novas."
 
 # game/script_date_luke.rpy:176
 translate languagetwo luke_on_couch_08ffeb0b:
 
     # lukebig "Embrace the differences! Go with the flow, no matter what."
-    lukebig "Embrace the differences! Go with the flow, no matter what."
+    lukebig "Abraçar as diferenças! Seguir o fluxo, independente do que for."
 
 # game/script_date_luke.rpy:183
 translate languagetwo luke_on_couch_1e192f82:
 
     # lukebig "Good to hear. If you don't try new things, you just wind up doing the same shite, day in, day out, for the rest of your life."
-    lukebig "Good to hear. If you don't try new things, you just wind up doing the same shite, day in, day out, for the rest of your life."
+    lukebig "Bom saber. Se a gente não tenta coisas novas a gente acaba fazendo o mesmo trem, dia vai, dia vem, até morrer."
 
 # game/script_date_luke.rpy:185
 translate languagetwo luke_on_couch_49fce750:
 
     # mside "Right. You just fall into a routine and stop noticing anything that's actually happening."
-    mside "Right. You just fall into a routine and stop noticing anything that's actually happening."
+    mside "Pois é. Aí cai em uma rotina e para de notar tudo que tá acontecendo em volta."
 
 # game/script_date_luke.rpy:189
 translate languagetwo luke_on_couch_f88f4df5:
 
     # lukebig "Well, obviously, but I just meant in general."
-    lukebig "Well, obviously, but I just meant in general."
+    lukebig "Bem, obviamente, mas eu quis dizer no geral."
 
 # game/script_date_luke.rpy:192
 translate languagetwo luke_on_couch_2e50762c:
 
     # mside "Okay, well, yeah. You're right."
-    mside "Okay, well, yeah. You're right."
+    mside "Ah, sim. Você tem razão."
 
 # game/script_date_luke.rpy:196
 translate languagetwo luke_in_us_c7300048:
 
     # mside "So now that you've been in the U.S. a bit, what do you think?"
-    mside "So now that you've been in the U.S. a bit, what do you think?"
+    mside "Mas e aí, agora que você já passou um tempo aqui, o que você acha de SP?"
 
 # game/script_date_luke.rpy:198
 translate languagetwo luke_in_us_68c4b3c3:
 
     # lukebig "It's great. They say the Irish are friendly, but you guys seem to take it to a whole new level."
-    lukebig "It's great. They say the Irish are friendly, but you guys seem to take it to a whole new level."
+    lukebig "É tri-legal! Dizem que os mineiros são amigáveis, mas 'cês tão num outro patamar"
 
 # game/script_date_luke.rpy:200
 translate languagetwo luke_in_us_30c9b71d:
 
     # lukebig "On the other hand—"
-    lukebig "On the other hand—"
+    lukebig "Por outro lado—"
 
 # game/script_date_luke.rpy:202
 translate languagetwo luke_in_us_34c88803:
 
     # lukebig "—the bars here don't serve alcohol after two a.m."
-    lukebig "—the bars here don't serve alcohol after two a.m."
+    lukebig "—os cafés aqui vendem um pão de queijo muuurcho que dói"
 
 # game/script_date_luke.rpy:205
 translate languagetwo luke_in_us_5d414176:
 
     # lukebig "It's fuckin' barbaric!"
-    lukebig "It's fuckin' barbaric!"
+    lukebig "Isso é barbaridade!"
 
 # game/script_date_luke.rpy:207
 translate languagetwo luke_in_us_9927ad97:
@@ -448,169 +448,169 @@ translate languagetwo luke_in_us_9927ad97:
 translate languagetwo luke_in_us_647b1d4f:
 
     # lukebig "Ok, I've been going on and on about nothing. Let's get this movie going."
-    lukebig "Ok, I've been going on and on about nothing. Let's get this movie going."
+    lukebig "Tá, chega de ficar falando de coisa aleatória, vamo' dar play nesse filme."
 
 # game/script_date_luke.rpy:218
 translate languagetwo luke_watching_movie_8de70f01:
 
     # "Luke fires up '{i}While I Sleep{/i}' on Streamflix."
-    "Luke fires up '{i}While I Sleep{/i}' on Streamflix."
+    "Luke reproduz '{i}Enquanto eu Durmo{/i}' na Streamflix."
 
 # game/script_date_luke.rpy:223
 translate languagetwo luke_watching_movie_5a2328f1:
 
     # "The opening scene shows the main character, Goff, as a young boy, dreaming about becoming an international rugby superstar."
-    "The opening scene shows the main character, Goff, as a young boy, dreaming about becoming an international rugby superstar."
+    "A cena de abertura mostra o personagem principal, Goff, quando garoto, sonhando em se tornar uma superestrela internacional de rúgbi."
 
 # game/script_date_luke.rpy:224
 translate languagetwo luke_watching_movie_707eb6cf:
 
     # "Unfortunately, during his first game as a wee whipper-snapper, he collapses into a slumbering heap on the field."
-    "Unfortunately, during his first game as a wee whipper-snapper, he collapses into a slumbering heap on the field."
+    "Infelizmente, durante seu primeiro jogo, inexperiente e pretensioso, ele adormece e desmorona na quadra."
 
 # game/script_date_luke.rpy:233
 translate languagetwo luke_watching_movie_b1691ea7:
 
     # "You watch Luke out of the corner of your eye, waiting for him to make the first move."
-    "You watch Luke out of the corner of your eye, waiting for him to make the first move."
+    "Você observa o Luke de canto de olho, esperando ele fazer o primeiro movimento."
 
 # game/script_date_luke.rpy:234
 translate languagetwo luke_watching_movie_af9432f4:
 
     # "It's hard not to stare at him."
-    "It's hard not to stare at him."
+    "É difícil não encará-lo."
 
 # game/script_date_luke.rpy:235
 translate languagetwo luke_watching_movie_7941ee61:
 
     # thought "The Herculean sweep of his chest. The meaty swell of his thighs—"
-    thought "The Herculean sweep of his chest. The meaty swell of his thighs—"
+    thought "A curva herculeana de seu peitoral. a grossura de suas coxas parrudas—"
 
 # game/script_date_luke.rpy:237
 translate languagetwo luke_watching_movie_53d5ae2d:
 
     # lukebig "Oh no! Get up you little chiseller!"
-    lukebig "Oh no! Get up you little chiseller!"
+    lukebig "Ah não! Levanta, seu pirralhin'!"
 
 # game/script_date_luke.rpy:238
 translate languagetwo luke_watching_movie_51eff5e0:
 
     # "While glancing over, Luke catches you staring."
-    "While glancing over, Luke catches you staring."
+    "Enquanto olhava por cima, Luke te flagra o encarando."
 
 # game/script_date_luke.rpy:240
 translate languagetwo luke_watching_movie_57f815a9:
 
     # lukebig "Is there something the matter, lad?"
-    lukebig "Is there something the matter, lad?"
+    lukebig "Aconteceu alguma coisa, manin'?"
 
 # game/script_date_luke.rpy:245
 translate languagetwo luke_watching_movie_fe09238a:
 
     # lukebig "It's fuckin' terrible. Poor little Goff... he didn't deserve this."
-    lukebig "It's fuckin' terrible. Poor little Goff... he didn't deserve this."
+    lukebig "É terrível. Pobre Goff... ele num merecia isso."
 
 # game/script_date_luke.rpy:248
 translate languagetwo luke_watching_movie_b45ddbf2:
 
     # mside "Somebody should organize a sleep-in to raise awareness for victims of narcolepsy."
-    mside "Somebody should organize a sleep-in to raise awareness for victims of narcolepsy."
+    mside "Alguém deveria organizar um cochilo coletivo para aumentar a consciência sobre vítimas da narcolepsia."
 
 # game/script_date_luke.rpy:250
 translate languagetwo luke_watching_movie_26ba3f48:
 
     # lukebig "That's certainly an {i}idea{/i}, lad."
-    lukebig "That's certainly an {i}idea{/i}, lad."
+    lukebig "Isso é certamente uma {i}ideia{/i}, manin'."
 
 # game/script_date_luke.rpy:252
 translate languagetwo luke_watching_movie_2edfec7b:
 
     # mside "We should all just sleep until a cure is found."
-    mside "We should all just sleep until a cure is found."
+    mside "A gente deveria só dormir até acharem uma cura."
 
 # game/script_date_luke.rpy:256
 translate languagetwo luke_watching_movie_da82da92:
 
     # lukebig "Yeah, they're huge, right? Leg strength is terrible important in rugby."
-    lukebig "Yeah, they're huge, right? Leg strength is terrible important in rugby."
+    lukebig "É, são enormes, num são? Força na perna é crucial no rúgbi."
 
 # game/script_date_luke.rpy:259
 translate languagetwo luke_watching_movie_ad88c247:
 
     # mside "It looks like you're doing a great job with that."
-    mside "It looks like you're doing a great job with that."
+    mside "Você tá fazendo um ótimo trabalho, então."
 
 # game/script_date_luke.rpy:261
 translate languagetwo luke_watching_movie_d82b67b9:
 
     # lukebig "Thanks. Every day is leg day for me. Seriously. Squats, thrusts, extensions, curls. It's all about building that mass."
-    lukebig "Thanks. Every day is leg day for me. Seriously. Squats, thrusts, extensions, curls. It's all about building that mass."
+    lukebig "Valeu. Todo dia é dia de perna pra mim. De verdade. Agachamentos, impulsos, extensões, flexões. Tudo pra aumentar a massa."
 
 # game/script_date_luke.rpy:264
 translate languagetwo luke_watching_movie_8f93d329:
 
     # mside "Dat mass, yes, build it."
-    mside "Dat mass, yes, build it."
+    mside "A massa, sim, aumenta."
 
 # game/script_date_luke.rpy:266
 translate languagetwo luke_watching_movie_5afba333:
 
     # lukebig "You alright, lad?"
-    lukebig "You alright, lad?"
+    lukebig "'Cê tá bem, manin'?"
 
 # game/script_date_luke.rpy:268
 translate languagetwo luke_watching_movie_34ae8236:
 
     # mside "I'm fine. I mean... you're fine. No, the first thing. I'm fine. Yeah."
-    mside "I'm fine. I mean... you're fine. No, the first thing. I'm fine. Yeah."
+    mside "Eu tô perfeito. quer dizer... você é perfeito. Nao, o que eu disse antes. Tô perfeito. É."
 
 # game/script_date_luke.rpy:270
 translate languagetwo luke_watching_movie_2b1baf6f:
 
     # lukebig "If you say so."
-    lukebig "If you say so."
+    lukebig "Se você diz."
 
 # game/script_date_luke.rpy:278
 translate languagetwo luke_movie_act2_af59bef9:
 
     # "The movie continues. Luke appears to be deeply absorbed in the plot as it follows Goff's adolescent journey to make his high school rugby team."
-    "The movie continues. Luke appears to be deeply absorbed in the plot as it follows Goff's adolescent journey to make his high school rugby team."
+    "O filme continua. Luke parece estar profundamente imerso no plot, que segue com Goff, já adolescente, em uma jornada para construir seu time colegial de rúgbi."
 
 # game/script_date_luke.rpy:286
 translate languagetwo luke_movie_act2_e244dd63:
 
     # thought "God. Luke seems to be really into this corny movie. Or maybe he's nervous. Maybe I should be the bold one and make a move."
-    thought "God. Luke seems to be really into this corny movie. Or maybe he's nervous. Maybe I should be the bold one and make a move."
+    thought "Meu Deus. O Luke parece realmente estar gostando desse filme brega. Ou talvez esteja nervoso. Talvez eu deva ser o ousado e dar em cima."
 
 # game/script_date_luke.rpy:291
 translate languagetwo luke_movie_act2_54055409:
 
     # lukebig "Ya need more room, lad?"
-    lukebig "Ya need more room, lad?"
+    lukebig "Precisa me mais espaço, manin'?"
 
 # game/script_date_luke.rpy:293
 translate languagetwo luke_movie_act2_60b16b74:
 
     # mside "Well, no."
-    mside "Well, no."
+    mside "Bem, não."
 
 # game/script_date_luke.rpy:295
 translate languagetwo luke_movie_act2_424bae47:
 
     # thought "Hmm. Guess he's not too comfortable with me yet."
-    thought "Hmm. Guess he's not too comfortable with me yet."
+    thought "Hmm. Parece que ele ainda não tá muito confortável comigo."
 
 # game/script_date_luke.rpy:305
 translate languagetwo luke_goff_scores_9693cd55:
 
     # "The movie continues. Goff plays his first big rugby match as a college freshman. Marianne, the coach's daughter, watches from the stands. Will Goff be able to impress her?"
-    "The movie continues. Goff plays his first big rugby match as a college freshman. Marianne, the coach's daughter, watches from the stands. Will Goff be able to impress her?"
+    "O filme continua. Goff joga sua primeira grande partida de rúgbi no primeiro ano. Marianne, a filha do treinador, assiste da arquibancada. Será que Goff será capaz de impressioná-la?"
 
 # game/script_date_luke.rpy:307
 translate languagetwo luke_goff_scores_0571f67a:
 
     # lukeside "Go wide out, Goff! You can do it! You can fuckin' do it! Don't pass out!"
-    lukeside "Go wide out, Goff! You can do it! You can fuckin' do it! Don't pass out!"
+    lukeside "Vai com tudo, Goff! 'Cê consegue! 'Cê consegue porra! Não desmaia!"
 
 # game/script_date_luke.rpy:309
 translate languagetwo luke_goff_scores_4f78ddd5:
