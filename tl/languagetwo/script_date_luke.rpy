@@ -622,205 +622,205 @@ translate languagetwo luke_goff_scores_4f78ddd5:
 translate languagetwo luke_goff_scores_a62ce3be:
 
     # "Goff jukes and weaves and blasts through defenders before finally scoring."
-    "Goff jukes and weaves and blasts through defenders before finally scoring."
+    "Goff dá um drible e voa pela defesa inimiga, finalmente marcando um ponto."
 
 # game/script_date_luke.rpy:313
 translate languagetwo luke_goff_scores_c25b41e6:
 
     # lukeside "Fuck yeah!"
-    lukeside "Fuck yeah!"
+    lukeside "Aê porra!"
 
 # game/script_date_luke.rpy:318
 translate languagetwo luke_goff_scores_163bc2b6:
 
     # mside "Damn! {size=-10}That was incredible!{/size}"
-    mside "Damn! {size=-10}That was incredible!{/size}"
+    mside "Caraca! {size=-10}Isso foi incrível!{/size}"
 
 # game/script_date_luke.rpy:320
 translate languagetwo luke_goff_scores_b4ee907c:
 
     # lukeside "Amazing. Right?!"
-    lukeside "Amazing. Right?!"
+    lukeside "Demais, num é?!"
 
 # game/script_date_luke.rpy:321
 translate languagetwo luke_goff_scores_074a6c34:
 
     # "You bump fists."
-    "You bump fists."
+    "Vocês dão um soquinho de punhos."
 
 # game/script_date_luke.rpy:324
 translate languagetwo luke_goff_scores_5b417be9:
 
     # "You reach for his thigh."
-    "You reach for his thigh."
+    "Você pousa a mão sobre as coxas dele."
 
 # game/script_date_luke.rpy:326
 translate languagetwo luke_goff_scores_85c51bd5:
 
     # lukeside "What are ya doin', lad?"
-    lukeside "What are ya doin', lad?"
+    lukeside "O quê 'cê tá fazendo, manin'?"
 
 # game/script_date_luke.rpy:329
 translate languagetwo luke_goff_scores_d434010e:
 
     # mside "Sorry. I thought..."
-    mside "Sorry. I thought..."
+    mside "Desculpa. Eu achei que..."
 
 # game/script_date_luke.rpy:331
 translate languagetwo luke_goff_scores_70ca36d0:
 
     # lukeside "We're watching a movie here. Or {i}I{/i} am, at least. Don't know what {i}you're{/i} doin'!"
-    lukeside "We're watching a movie here. Or {i}I{/i} am, at least. Don't know what {i}you're{/i} doin'!"
+    lukeside "A gente tá vendo um filme aqui. Ou {i}eu{/i} tô, pelo menos. Num sei o que {i}você{/i} tá fazendo!"
 
 # game/script_date_luke.rpy:335
 translate languagetwo luke_goff_scores_2ebb5d0a:
 
     # "Luke seems oblivious to your unresponsiveness."
-    "Luke seems oblivious to your unresponsiveness."
+    "Luke parece desatento à sua falta de resposta."
 
 # game/script_date_luke.rpy:337
 translate languagetwo luke_goff_scores_08bd6229:
 
     # lukeside "Will you fuckin' look at that? Goff's dreams are comin' true."
-    lukeside "Will you fuckin' look at that? Goff's dreams are comin' true."
+    lukeside "Dá pra acreditar? Os sonhos do Goff tão se tornando realidade."
 
 # game/script_date_luke.rpy:339
 translate languagetwo luke_goff_scores_4f1524e9:
 
     # mside "{size=-10}Must be nice.{/size}"
-    mside "{size=-10}Must be nice.{/size}"
+    mside "{size=-10}Deve ser bom.{/size}"
 
 # game/script_date_luke.rpy:351
 translate languagetwo luke_movie_soreness_47ab26c4:
 
     # "Shortly after, a scene comes on where Goff, bruised and battered the day after a particularly rough match, complains of his soreness."
-    "Shortly after, a scene comes on where Goff, bruised and battered the day after a particularly rough match, complains of his soreness."
+    "Pouco tempo depois, desenrola uma cena em que Goff, machucado e acabado depois de uma partida particularmente dura, reclama de suas dores."
 
 # game/script_date_luke.rpy:354
 translate languagetwo luke_movie_soreness_79e19f02:
 
     # lukebig "See that? Right there. That's me after every match. I just played yesterday and that's exactly how I'm feeling."
-    lukebig "See that? Right there. That's me after every match. I just played yesterday and that's exactly how I'm feeling."
+    lukebig "Tá vendo, alí? Sou eu depois de toda partida. Eu joguei ontem e tô me sentindo do mesmo jeitin'."
 
 # game/script_date_luke.rpy:356
 translate languagetwo luke_movie_soreness_e7d2b814:
 
     # mside "A lot of soreness? Tightness? Bruises?"
-    mside "A lot of soreness? Tightness? Bruises?"
+    mside "Muitas dores? Tensão muscular? Contusões?"
 
 # game/script_date_luke.rpy:358
 translate languagetwo luke_movie_soreness_fe9f4fe9:
 
     # lukebig "All of it. I think of it like the proof of your effort. The sacrifice you make for the love of the game."
-    lukebig "All of it. I think of it like the proof of your effort. The sacrifice you make for the love of the game."
+    lukebig "Tudo isso aí. Penso nisso como a prova do seu esforço. O sacrifício que 'cê faz pelo amor ao jogo."
 
 # game/script_date_luke.rpy:371
 translate languagetwo luke_massage_feef24aa:
 
     # lukebig "That'd be brilliant, [m]."
-    lukebig "That'd be brilliant, [m]."
+    lukebig "Isso seria perfeito, [m]."
 
 # game/script_date_luke.rpy:372
 translate languagetwo luke_massage_ef0262a0:
 
     # thought "Now we're talking."
-    thought "Now we're talking."
+    thought "É disso que eu tô falando."
 
 # game/script_date_luke.rpy:381
 translate languagetwo luke_massage_1d8d9477:
 
     # "You scoot next to Luke and he turns his back to you. His muscles rippling and showing through his t-shirt."
-    "You scoot next to Luke and he turns his back to you. His muscles rippling and showing through his t-shirt."
+    "Você rapidamente se aproxima de Luke e ele vira as costas para você. Ele é tão musculoso que a camiseta enruga e mostra claramente sua definição."
 
 # game/script_date_luke.rpy:382
 translate languagetwo luke_massage_480ff492:
 
     # "You put your hands on his bulky, tight traps and begin working into them."
-    "You put your hands on his bulky, tight traps and begin working into them."
+    "Você coloca suas mãos no trapézio maciço e firme dele, e então começa a massagear."
 
 # game/script_date_luke.rpy:383
 translate languagetwo luke_massage_28234515:
 
     # thought "Maybe he IS into me."
-    thought "Maybe he IS into me."
+    thought "Talvez ele esteja na minha!"
 
 # game/script_date_luke.rpy:385
 translate languagetwo luke_massage_cd0b8f93:
 
     # lukeside "You Americans sure are friendly. None of my lads back in Waterford would do this."
-    lukeside "You Americans sure are friendly. None of my lads back in Waterford would do this."
+    lukeside "'Cês paulistas são realmente amigáveis. Nenhum dos meus amigos lá de BH fariam isso."
 
 # game/script_date_luke.rpy:387
 translate languagetwo luke_massage_91f4d9b0:
 
     # mside "Just making sure you get some of our warm, friendly Orlin hospitality."
-    mside "Just making sure you get some of our warm, friendly Orlin hospitality."
+    mside "Só garantindo que você receba um pouco da nossa hospitalidade quente e simpática."
 
 # game/script_date_luke.rpy:388
 translate languagetwo luke_massage_c64f6b24:
 
     # "You push hard into his muscles and can feel Luke tense and relax as you massage him."
-    "You push hard into his muscles and can feel Luke tense and relax as you massage him."
+    "Você aperta os músculos mais forte e sente Luke tensionar e relaxar enquanto você faz a massagem."
 
 # game/script_date_luke.rpy:390
 translate languagetwo luke_massage_61b57207:
 
     # lukeside "Ahhh...I feel like I'm bein' a bit spoiled by your bicep work."
-    lukeside "Ahhh...I feel like I'm bein' a bit spoiled by your bicep work."
+    lukeside "Ahhh... 'Cê tá massageando tão bem meu biceps que assim eu acostumo, hein"
 
 # game/script_date_luke.rpy:392
 translate languagetwo luke_massage_dd6a13c7:
 
     # lukeside "Don't know why, but they've been fuckin' killin' me!"
-    lukeside "Don't know why, but they've been fuckin' killin' me!"
+    lukeside "Não sei por quê, mas eles estavam doendo pra cacete!"
 
 # game/script_date_luke.rpy:393
 translate languagetwo luke_massage_d9259f44:
 
     # "You squeeze and rub Luke's epochal arms. It takes two hands to wrap all the way around them."
-    "You squeeze and rub Luke's epochal arms. It takes two hands to wrap all the way around them."
+    "Você espreme e massageia os braços históricos de Luke. Precisa de duas mãos para dar a volta deles."
 
 # game/script_date_luke.rpy:395
 translate languagetwo luke_massage_5ec13a73:
 
     # lukeside "Not to sound pushy, but could you get into my back, too?"
-    lukeside "Not to sound pushy, but could you get into my back, too?"
+    lukeside "Se não for pedir demais, pode fazer nas minhas costas, também?"
 
 # game/script_date_luke.rpy:397
 translate languagetwo luke_massage_cd108720:
 
     # mside "It's a possibility."
-    mside "It's a possibility."
+    mside "É uma possibilidade."
 
 # game/script_date_luke.rpy:398
 translate languagetwo luke_massage_9746ccd7:
 
     # "You rub and squeeze Luke's back, remembering the feel of each muscle on your fingers, thrilling at the touch."
-    "You rub and squeeze Luke's back, remembering the feel of each muscle on your fingers, thrilling at the touch."
+    "Você massageia e espreme as costas de Luke, recordando-se da sensação de cada músculo pelo seus dedos, excitante ao toque."
 
 # game/script_date_luke.rpy:399
 translate languagetwo luke_massage_6cf3f3b4:
 
     # "He's so brawny and tight, you want to just rub him harder and harder and feel every inch of him."
-    "He's so brawny and tight, you want to just rub him harder and harder and feel every inch of him."
+    "Ele é tão forte e firme, você quer esfregá-lo cada vez mais forte e sentir cada centímetro dele."
 
 # game/script_date_luke.rpy:401
 translate languagetwo luke_massage_632fac9d:
 
     # lukeside "Yes, yes, yes."
-    lukeside "Yes, yes, yes."
+    lukeside "Sim, sim, sim."
 
 # game/script_date_luke.rpy:402
 translate languagetwo luke_massage_a394f160:
 
     # "You nearly groan from the insistent pressure of your cock pressing against your jeans."
-    "You nearly groan from the insistent pressure of your cock pressing against your jeans."
+    "Você quase geme por conta da pressão insistente do seu pau pressionando contra sua calça."
 
 # game/script_date_luke.rpy:403
 translate languagetwo luke_massage_1e40dbdc:
 
     # "As you memorize every bulge and striation of his torso, you work your fingers down further, making a beeline towards his ass, when—"
-    "As you memorize every bulge and striation of his torso, you work your fingers down further, making a beeline towards his ass, when—"
+    "Você continua memorizando cada volume e estria do torso dele, levando seus dedos mais abaixo, em linha reta, em direção à bunda dele, quando—"
 
 # game/script_date_luke.rpy:417
 translate languagetwo luke_massage_interrupt_05c5b145:
