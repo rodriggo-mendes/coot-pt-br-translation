@@ -4,107 +4,107 @@ translate languagetwo strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}Segunda"
 
     # 00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}Terça"
 
     # 00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}Quarta"
 
     # 00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}Quinta"
 
     # 00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}Sexta"
 
     # 00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}Sábado"
 
     # 00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}Domingo"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Mon"
+    new "{#weekday_short}Seg"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Tue"
+    new "{#weekday_short}Ter"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Wed"
+    new "{#weekday_short}Qua"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Thu"
+    new "{#weekday_short}Qui"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Fri"
+    new "{#weekday_short}Sex"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sat"
+    new "{#weekday_short}Sáb"
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sun"
+    new "{#weekday_short}Dom"
 
     # 00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}Janeiro"
 
     # 00action_file.rpy:47
     old "{#month}February"
-    new "{#month}February"
+    new "{#month}Fevereiro"
 
     # 00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}Março"
 
     # 00action_file.rpy:47
     old "{#month}April"
-    new "{#month}April"
+    new "{#month}Abril"
 
     # 00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}Maio"
 
     # 00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}Junho"
 
     # 00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}Julho"
 
     # 00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}Agosto"
 
     # 00action_file.rpy:47
     old "{#month}September"
-    new "{#month}September"
+    new "{#month}Setembro"
 
     # 00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}Outubro"
 
     # 00action_file.rpy:47
     old "{#month}November"
-    new "{#month}November"
+    new "{#month}Novembro"
 
     # 00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}Dezembro"
 
     # 00action_file.rpy:63
     old "{#month_short}Jan"
@@ -112,7 +112,7 @@ translate languagetwo strings:
 
     # 00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short}Feb"
+    new "{#month_short}Fev"
 
     # 00action_file.rpy:63
     old "{#month_short}Mar"
@@ -120,11 +120,11 @@ translate languagetwo strings:
 
     # 00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}Apr"
+    new "{#month_short}Abr"
 
     # 00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}May"
+    new "{#month_short}Mai"
 
     # 00action_file.rpy:63
     old "{#month_short}Jun"
@@ -136,15 +136,15 @@ translate languagetwo strings:
 
     # 00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short}Aug"
+    new "{#month_short}Ago"
 
     # 00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short}Sep"
+    new "{#month_short}Set"
 
     # 00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}Out"
 
     # 00action_file.rpy:63
     old "{#month_short}Nov"
@@ -152,7 +152,7 @@ translate languagetwo strings:
 
     # 00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}Dec"
+    new "{#month_short}Dez"
 
     # 00action_file.rpy:240
     old "%b %d, %H:%M"
@@ -160,67 +160,67 @@ translate languagetwo strings:
 
     # 00action_file.rpy:353
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "Salvar slot %s: [text]"
 
     # 00action_file.rpy:434
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "Carregar slot %s: [text]"
 
     # 00action_file.rpy:487
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "Deletar slot [text]"
 
     # 00action_file.rpy:569
     old "File page auto"
-    new "File page auto"
+    new "Pág. de arquivos auto"
 
     # 00action_file.rpy:571
     old "File page quick"
-    new "File page quick"
+    new "Pág. de arquivos rápida"
 
     # 00action_file.rpy:573
     old "File page [text]"
-    new "File page [text]"
+    new "Pág. de arquivos [text]"
 
     # 00action_file.rpy:631
     old "Page {}"
-    new "Page {}"
+    new "Pág. {}"
 
     # 00action_file.rpy:631
     old "Automatic saves"
-    new "Automatic saves"
+    new "Saves automáticos"
 
     # 00action_file.rpy:631
     old "Quick saves"
-    new "Quick saves"
+    new "Save rápido"
 
     # 00action_file.rpy:772
     old "Next file page."
-    new "Next file page."
+    new "Próxima pág. de arquivos."
 
     # 00action_file.rpy:845
     old "Previous file page."
-    new "Previous file page."
+    new "Pág. de arquivos anterior."
 
     # 00action_file.rpy:906
     old "Quick save complete."
-    new "Quick save complete."
+    new "Save rápido completo."
 
     # 00action_file.rpy:924
     old "Quick save."
-    new "Quick save."
+    new "Save rápido."
 
     # 00action_file.rpy:943
     old "Quick load."
-    new "Quick load."
+    new "Carregamento rápido."
 
     # 00action_other.rpy:355
     old "Language [text]"
-    new "Language [text]"
+    new "Idioma [text]"
 
     # 00director.rpy:708
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "O diretor interativo não está habilitado aqui."
 
     # 00director.rpy:1481
     old "⬆"
@@ -232,7 +232,7 @@ translate languagetwo strings:
 
     # 00director.rpy:1551
     old "Done"
-    new "Done"
+    new "Feito"
 
     # 00director.rpy:1561
     old "(statement)"
@@ -264,23 +264,23 @@ translate languagetwo strings:
 
     # 00director.rpy:1631
     old "Change"
-    new "Change"
+    new "Mudar"
 
     # 00director.rpy:1633
     old "Add"
-    new "Add"
+    new "Adicionar"
 
     # 00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new "Cancelar"
 
     # 00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new "Remover"
 
     # 00director.rpy:1674
     old "Statement:"
-    new "Statement:"
+    new "Frase:"
 
     # 00director.rpy:1695
     old "Tag:"
@@ -288,75 +288,75 @@ translate languagetwo strings:
 
     # 00director.rpy:1711
     old "Attributes:"
-    new "Attributes:"
+    new "Atributos:"
 
     # 00director.rpy:1729
     old "Transforms:"
-    new "Transforms:"
+    new "Transformações:"
 
     # 00director.rpy:1748
     old "Behind:"
-    new "Behind:"
+    new "Atrás:"
 
     # 00director.rpy:1767
     old "Transition:"
-    new "Transition:"
+    new "Transição:"
 
     # 00director.rpy:1785
     old "Channel:"
-    new "Channel:"
+    new "Canal:"
 
     # 00director.rpy:1803
     old "Audio Filename:"
-    new "Audio Filename:"
+    new "Nome de arquivo de áudio:"
 
     # 00gui.rpy:370
     old "Are you sure?"
-    new "Are you sure?"
+    new "Você tem certeza?"
 
     # 00gui.rpy:371
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Você tem certeza que deseja deletar esse save?"
 
     # 00gui.rpy:372
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "Você tem certeza que deseja sobrescrever seu save?"
 
     # 00gui.rpy:373
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Você perderá progresso não salvo.\nVocê tem certeza que deseja continuar?"
 
     # 00gui.rpy:374
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Você tem certeza que deseja sair?"
 
     # 00gui.rpy:375
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Você tem certeza que deseja retornar ao menu principal?\nVocê perderá progresso não salvo."
 
     # 00gui.rpy:376
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Você tem certeza que deseja finalizar o replay?"
 
     # 00gui.rpy:377
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "Você tem certeza que deseja começar a pular?"
 
     # 00gui.rpy:378
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "Você tem certeza que deseja pular para a próxima escolha?"
 
     # 00gui.rpy:379
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Você tem certeza que deseja pular diálogos não vistos para a próxima escolha?"
 
     # 00keymap.rpy:258
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "Falha em salvar a captura de tela como %s."
 
     # 00keymap.rpy:270
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "Captura de tela salva como %s."
 
     # 00library.rpy:146
     old "Self-voicing disabled."
@@ -376,7 +376,7 @@ translate languagetwo strings:
 
     # 00library.rpy:151
     old "selected"
-    new "selected"
+    new "selecionado"
 
     # 00library.rpy:152
     old "viewport"
@@ -392,23 +392,23 @@ translate languagetwo strings:
 
     # 00library.rpy:155
     old "activate"
-    new "activate"
+    new "ativar"
 
     # 00library.rpy:156
     old "deactivate"
-    new "deactivate"
+    new "desativar"
 
     # 00library.rpy:157
     old "increase"
-    new "increase"
+    new "aumentar"
 
     # 00library.rpy:158
     old "decrease"
-    new "decrease"
+    new "diminuir"
 
     # 00library.rpy:193
     old "Skip Mode"
-    new "Skip Mode"
+    new "Modo Pular"
 
     # 00library.rpy:279
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -420,23 +420,23 @@ translate languagetwo strings:
 
     # 00preferences.rpy:219
     old "transitions"
-    new "transitions"
+    new "transições"
 
     # 00preferences.rpy:228
     old "skip transitions"
-    new "skip transitions"
+    new "pular transições"
 
     # 00preferences.rpy:230
     old "video sprites"
-    new "video sprites"
+    new "sprites de vídeo"
 
     # 00preferences.rpy:239
     old "show empty window"
-    new "show empty window"
+    new "exibir janela vazia"
 
     # 00preferences.rpy:248
     old "text speed"
-    new "text speed"
+    new "velocidado de texto"
 
     # 00preferences.rpy:256
     old "joystick"
@@ -448,55 +448,55 @@ translate languagetwo strings:
 
     # 00preferences.rpy:263
     old "skip"
-    new "skip"
+    new "pular"
 
     # 00preferences.rpy:266
     old "skip unseen [text]"
-    new "skip unseen [text]"
+    new "pular [text] não visto"
 
     # 00preferences.rpy:271
     old "skip unseen text"
-    new "skip unseen text"
+    new "pular texto não visto"
 
     # 00preferences.rpy:273
     old "begin skipping"
-    new "begin skipping"
+    new "começar a pular"
 
     # 00preferences.rpy:277
     old "after choices"
-    new "after choices"
+    new "pós escolhas"
 
     # 00preferences.rpy:284
     old "skip after choices"
-    new "skip after choices"
+    new "pular pós escolhas"
 
     # 00preferences.rpy:286
     old "auto-forward time"
-    new "auto-forward time"
+    new "auto-avançar tempo"
 
     # 00preferences.rpy:300
     old "auto-forward"
-    new "auto-forward"
+    new "auto-avançar"
 
     # 00preferences.rpy:307
     old "Auto forward"
-    new "Auto forward"
+    new "Auto-avançar"
 
     # 00preferences.rpy:310
     old "auto-forward after click"
-    new "auto-forward after click"
+    new "auto-avançar após clique"
 
     # 00preferences.rpy:319
     old "automatic move"
-    new "automatic move"
+    new "movimento automático"
 
     # 00preferences.rpy:328
     old "wait for voice"
-    new "wait for voice"
+    new "esperar por voz"
 
     # 00preferences.rpy:337
     old "voice sustain"
-    new "voice sustain"
+    new "sustentação de voz"
 
     # 00preferences.rpy:346
     old "self voicing"
@@ -532,31 +532,31 @@ translate languagetwo strings:
 
     # 00preferences.rpy:413
     old "music volume"
-    new "music volume"
+    new "volume da música"
 
     # 00preferences.rpy:414
     old "sound volume"
-    new "sound volume"
+    new "volume do som"
 
     # 00preferences.rpy:415
     old "voice volume"
-    new "voice volume"
+    new "volume de voz"
 
     # 00preferences.rpy:416
     old "mute music"
-    new "mute music"
+    new "silenciar música"
 
     # 00preferences.rpy:417
     old "mute sound"
-    new "mute sound"
+    new "silenciar som"
 
     # 00preferences.rpy:418
     old "mute voice"
-    new "mute voice"
+    new "silenciar voz"
 
     # 00preferences.rpy:419
     old "mute all"
-    new "mute all"
+    new "silenciar tudo"
 
     # 00preferences.rpy:502
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -664,11 +664,11 @@ translate languagetwo strings:
 
     # 00gallery.rpy:605
     old "prev"
-    new "prev"
+    new "anterior"
 
     # 00gallery.rpy:606
     old "next"
-    new "next"
+    new "próximo"
 
     # 00gallery.rpy:607
     old "slideshow"
@@ -676,27 +676,27 @@ translate languagetwo strings:
 
     # 00gallery.rpy:608
     old "return"
-    new "return"
+    new "voltar"
 
     # 00gltest.rpy:70
     old "Renderer"
-    new "Renderer"
+    new "Renderizador"
 
     # 00gltest.rpy:74
     old "Automatically Choose"
-    new "Automatically Choose"
+    new "Escolher Automaticamente"
 
     # 00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
-    new "Force Angle/DirectX Renderer"
+    new "Forçar Renderizador Angle/DirectX"
 
     # 00gltest.rpy:83
     old "Force OpenGL Renderer"
-    new "Force OpenGL Renderer"
+    new "Forçar Renderizador OpenGL"
 
     # 00gltest.rpy:87
     old "Force Software Renderer"
-    new "Force Software Renderer"
+    new "Forçar Renderizador de Software"
 
     # 00gltest.rpy:93
     old "NPOT"
@@ -704,19 +704,19 @@ translate languagetwo strings:
 
     # 00gltest.rpy:97
     old "Enable"
-    new "Enable"
+    new "Habilitar"
 
     # 00gltest.rpy:101
     old "Disable"
-    new "Disable"
+    new "Desabilitar"
 
     # 00gltest.rpy:108
     old "Gamepad"
-    new "Gamepad"
+    new "Controle"
 
     # 00gltest.rpy:122
     old "Calibrate"
-    new "Calibrate"
+    new "Calibrar"
 
     # 00gltest.rpy:131
     old "Powersave"
@@ -724,11 +724,11 @@ translate languagetwo strings:
 
     # 00gltest.rpy:145
     old "Framerate"
-    new "Framerate"
+    new "Taxa de quadros"
 
     # 00gltest.rpy:149
     old "Screen"
-    new "Screen"
+    new "Tela"
 
     # 00gltest.rpy:153
     old "60"
@@ -744,35 +744,35 @@ translate languagetwo strings:
 
     # 00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "Changes will take effect the next time this program is run."
+    new "As mudanças surtirão efeitos da próxima vez que o jogo for aberto."
 
     # 00gltest.rpy:186
     old "Quit"
-    new "Quit"
+    new "Sair"
 
     # 00gltest.rpy:191
     old "Return"
-    new "Return"
+    new "Voltar"
 
     # 00gltest.rpy:213
     old "Performance Warning"
-    new "Performance Warning"
+    new "Aviso de Performance"
 
     # 00gltest.rpy:218
     old "This computer is using software rendering."
-    new "This computer is using software rendering."
+    new "Este computador está usando renderização de software."
 
     # 00gltest.rpy:220
     old "This computer is not using shaders."
-    new "This computer is not using shaders."
+    new "Este computador não está usando shaders."
 
     # 00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "This computer is displaying graphics slowly."
+    new "Este computador está exibindo gráficos lentamente."
 
     # 00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "This computer has a problem displaying graphics: [problem]."
+    new "Este computador tem um problema ao exibir gráficos: [problem]."
 
     # 00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
@@ -784,19 +784,19 @@ translate languagetwo strings:
 
     # 00gltest.rpy:236
     old "Update DirectX"
-    new "Update DirectX"
+    new "Atualizar DirectX"
 
     # 00gltest.rpy:242
     old "Continue, Show this warning again"
-    new "Continue, Show this warning again"
+    new "Continuar, Mostrar esse aviso novamente"
 
     # 00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new "Continue, Don't show warning again"
+    new "Continuar, Não mostrar esse aviso novamente"
 
     # 00gltest.rpy:264
     old "Updating DirectX."
-    new "Updating DirectX."
+    new "Atualizando DirectX."
 
     # 00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
@@ -812,19 +812,19 @@ translate languagetwo strings:
 
     # 00gltest.rpy:278
     old "Restart"
-    new "Restart"
+    new "Reiniciar"
 
     # 00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "Select Gamepad to Calibrate"
+    new "Selecionar Controle para calibrar"
 
     # 00gamepad.rpy:35
     old "No Gamepads Available"
-    new "No Gamepads Available"
+    new "Nenhum Controle Disponível"
 
     # 00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrating [name] ([i]/[total])"
+    new "Calibrando [name] ([i]/[total])"
 
     # 00gamepad.rpy:58
     old "Press or move the [control!r] [kind]."
@@ -832,15 +832,15 @@ translate languagetwo strings:
 
     # 00gamepad.rpy:66
     old "Skip (A)"
-    new "Skip (A)"
+    new "Pular (A)"
 
     # 00gamepad.rpy:69
     old "Back (B)"
-    new "Back (B)"
+    new "Voltar (B)"
 
     # _errorhandling.rpym:531
     old "Open"
-    new "Open"
+    new "Abrir"
 
     # _errorhandling.rpym:533
     old "Opens the traceback.txt file in a text editor."
@@ -848,7 +848,7 @@ translate languagetwo strings:
 
     # _errorhandling.rpym:535
     old "Copy"
-    new "Copy"
+    new "Copiar"
 
     # _errorhandling.rpym:537
     old "Copies the traceback.txt file to the clipboard."
@@ -868,7 +868,7 @@ translate languagetwo strings:
 
     # _errorhandling.rpym:589
     old "Ignore"
-    new "Ignore"
+    new "Ignorar"
 
     # _errorhandling.rpym:593
     old "Ignores the exception, allowing you to continue."
@@ -880,7 +880,7 @@ translate languagetwo strings:
 
     # _errorhandling.rpym:599
     old "Reload"
-    new "Reload"
+    new "Recarregar"
 
     # _errorhandling.rpym:601
     old "Reloads the game from disk, saving and restoring game state if possible."
@@ -896,7 +896,7 @@ translate languagetwo strings:
 
     # _errorhandling.rpym:616
     old "Quits the game."
-    new "Quits the game."
+    new "Sai do jogo."
 
     # _errorhandling.rpym:640
     old "Parsing the script failed."
